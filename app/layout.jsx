@@ -43,7 +43,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
 	  <head>
         {/* Tag verifikasi Google Search Console */}
-        <meta name="google-site-verification" content="YitZSYQQEZi6XSKwUWlxhDGT3vJpgWubbnIXZfS8xIA" />
+        <meta name="google-site-verification" content="4FeYDbTrRuhOcKijQ3SMRYWbmY9z8Fa4bLfoFICtGnw" />
         {/* Schema.org markup untuk Movie Database */}
         <script
           type="application/ld+json"
@@ -74,7 +74,7 @@ export default function RootLayout({ children }) {
               <div className="max-w-7xl mx-auto px-4 flex justify-center">
                 <AdBanner 
                   adId="728x90_banner_navbar"
-                  scriptKey="c02d8fc26f721491e6f4c80a0212cdc6"
+                  scriptKey="10c6bae42218d7db21dd126bb6e582a0"
                   height={90}
                   width={728}
                   className="rounded-lg overflow-hidden shadow-lg"
@@ -88,7 +88,7 @@ export default function RootLayout({ children }) {
             
             <footer className="w-full max-w-7xl mx-auto px-4 py-8">
               {/* Tempatkan div Native Banner di sini, sebelum Footer */}
-              <div id="container-3e70a842bc19a8f377401e5146461b69"></div>
+              <div id="container-86de7564f0d140120321e01f1b012aef"></div>
               <Footer />
             </footer>
           </div>
